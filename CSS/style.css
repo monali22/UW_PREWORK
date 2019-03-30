@@ -1,0 +1,15 @@
+h1{
+    text-align: center
+}
+
+p.styledFont{
+    color: red;
+    text-decoration: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic
+}
+
+#styledImage{
+    border: brown;
+    border-style: solid
+}
